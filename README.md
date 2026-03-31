@@ -17,24 +17,6 @@ Backend & DevOps engineer building reliable systems and infrastructure.
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Obekonti&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obekonti&layout=compact&hide_border=true" />
-</p>
-
----
-
-### Pinned Projects
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Obekonti&repo=YOUR_REPO_1&hide_border=true)](https://github.com/Obekonti/YOUR_REPO_1)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Obekonti&repo=YOUR_REPO_2&hide_border=true)](https://github.com/Obekonti/YOUR_REPO_2)
-
-> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with the names of your actual repositories.
-
----
-
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/berik-s-824a9128b/)
